@@ -54,7 +54,7 @@ meta.accent {
  * Document styles
  */
 meta.document {
-    background-color: #000000;
+    background-color: #1E1E1E;
     border-color: hsba(0, 0%, 100%, 0.1);
 }
 
@@ -109,7 +109,7 @@ meta.gutter.selected {
  */
 
 keyword {
-    color: #569cd6;
+    color: #C586C0;
 }
 
 keyword.export, keyword.return {
@@ -158,7 +158,7 @@ value.symbol {
 
 /* Identifiers */
 identifier {
-    color: #4FC1FF;
+    color: #9CDCFE;
 }
 
 identifier.type,
